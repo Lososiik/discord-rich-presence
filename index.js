@@ -4,7 +4,6 @@ function sleep(ms) {
 
 const ps = require('prompt-sync')
 const prompt = ps();
-const randchars = require("crypto")
 const RPC = require("discord-rpc");
 const rpc = new RPC.Client({
     transport: "ipc"
