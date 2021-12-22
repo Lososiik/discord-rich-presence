@@ -1,2 +1,2 @@
-# discord-rich-presence-
+# discord-rich-presence
 simple discord rich presence made in javascript
